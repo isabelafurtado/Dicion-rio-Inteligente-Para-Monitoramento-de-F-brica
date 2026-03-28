@@ -1,0 +1,378 @@
+---------------SISTEMA OPERACIONAL BOMBAS DE PRESSÃO - AVL---------------
+
+Medições da Bomba adicionada:
+	Identificador da Bomba: 00508
+	ID da Classe: 4
+	Temperatura: 120.397872423350350
+	Vibração: 2.771923086003001
+	Pressão: 101.695822880575780
+	Taxa de Fluxo da Bomba: 13.979786823998101
+	RPM: 2233.738752741166500
+	Operação da Bomba em horas 3982.290178038254000
+	Manutenção Recente: 1
+
+	Número de Comparações para Inserção: 1
+
+
+Medições da Bomba adicionada:
+	Identificador da Bomba: 00507
+	ID da Classe: 4
+	Temperatura: 103.101934552814610
+	Vibração: 0.719594463380538
+	Pressão: 248.264827291915820
+	Taxa de Fluxo da Bomba: 18.463704645127862
+	RPM: 2701.697795978278000
+	Operação da Bomba em horas 307.620173599155810
+	Manutenção Recente: 1
+
+	Número de Comparações para Inserção: 2
+
+
+Medições da Bomba adicionada:
+	Identificador da Bomba: 00503
+	ID da Classe: 4
+	Temperatura: 127.776077217278160
+	Vibração: 2.837988408361189
+	Pressão: 102.713762114950780
+	Taxa de Fluxo da Bomba: 13.967008572084534
+	RPM: 2883.315358675150500
+	Operação da Bomba em horas 780.899104755548710
+	Manutenção Recente: 1
+
+	Número de Comparações para Inserção: 3
+
+
+Medições da Bomba adicionada:
+	Identificador da Bomba: 00503
+	ID da Classe: 4
+	Temperatura: 141.557486849794940
+	Vibração: 3.906323687958682
+	Pressão: 149.368525284693190
+	Taxa de Fluxo da Bomba: 13.350907732635619
+	RPM: 1892.568322720938300
+	Operação da Bomba em horas 3684.443633224559600
+	Manutenção Recente: 0
+
+	Número de Comparações para Inserção: 2
+
+
+Medições da Bomba adicionada:
+	Identificador da Bomba: 00053
+	ID da Classe: 1
+	Temperatura: 149.586039449842640
+	Vibração: 1.307083122960415
+	Pressão: 183.563455967692960
+	Taxa de Fluxo da Bomba: 4.195398059372503
+	RPM: 1644.452495390714800
+	Operação da Bomba em horas 6293.336128095983400
+	Manutenção Recente: 1
+
+	Número de Comparações para Inserção: 3
+
+
+Medições da Bomba adicionada:
+	Identificador da Bomba: 00353
+	ID da Classe: 3
+	Temperatura: 50.875267857688286
+	Vibração: 1.759726745387455
+	Pressão: 178.946420101874420
+	Taxa de Fluxo da Bomba: 2.771609281986927
+	RPM: 2851.588166496771000
+	Operação da Bomba em horas 7634.382057032191400
+	Manutenção Recente: 1
+
+	Número de Comparações para Inserção: 4
+
+
+Medições da Bomba adicionada:
+	Identificador da Bomba: 00357
+	ID da Classe: 3
+	Temperatura: 82.706201059018923
+	Vibração: 4.715788003707150
+	Pressão: 161.246099545321810
+	Taxa de Fluxo da Bomba: 2.168156650363062
+	RPM: 2455.880004698156000
+	Operação da Bomba em horas 8810.672651459754000
+	Manutenção Recente: 1
+
+	Número de Comparações para Inserção: 4
+
+
+Medições da Bomba adicionada:
+	Identificador da Bomba: 00656
+	ID da Classe: 5
+	Temperatura: 67.812395748876099
+	Vibração: 4.683219232895383
+	Pressão: 248.741027710352090
+	Taxa de Fluxo da Bomba: 4.217438441175870
+	RPM: 1979.876305497439300
+	Operação da Bomba em horas 7042.287505507544700
+	Manutenção Recente: 0
+
+	Número de Comparações para Inserção: 4
+
+
+Medições da Bomba adicionada:
+	Identificador da Bomba: 00055
+	ID da Classe: 1
+	Temperatura: 73.930457222415015
+	Vibração: 0.536901927877059
+	Pressão: 275.262471887018820
+	Taxa de Fluxo da Bomba: 11.368806169805580
+	RPM: 2161.003174708261200
+	Operação da Bomba em horas 6844.703966689849000
+	Manutenção Recente: 1
+
+	Número de Comparações para Inserção: 4
+
+
+Medições da Bomba adicionada:
+	Identificador da Bomba: 00657
+	ID da Classe: 5
+	Temperatura: 96.032090289582470
+	Vibração: 4.824048800358232
+	Pressão: 204.931111277456240
+	Taxa de Fluxo da Bomba: 10.705349936898662
+	RPM: 2794.128983940005600
+	Operação da Bomba em horas 5434.749279944120600
+	Manutenção Recente: 1
+
+	Número de Comparações para Inserção: 4
+
+
+Medições da Bomba adicionada:
+	Identificador da Bomba: 00210
+	ID da Classe: 2
+	Temperatura: 134.141518927964630
+	Vibração: 3.539500129281211
+	Pressão: 221.414269919767890
+	Taxa de Fluxo da Bomba: 3.979234716351906
+	RPM: 1222.560060561141700
+	Operação da Bomba em horas 5780.316314785833100
+	Manutenção Recente: 0
+
+	Número de Comparações para Inserção: 5
+
+
+Medições da Bomba adicionada:
+	Identificador da Bomba: 00059
+	ID da Classe: 1
+	Temperatura: 68.344590323771854
+	Vibração: 4.576785650526148
+	Pressão: 177.784883216928900
+	Taxa de Fluxo da Bomba: 1.747634319670923
+	RPM: 2314.103934895284500
+	Operação da Bomba em horas 2140.291126118946500
+	Manutenção Recente: 1
+
+	Número de Comparações para Inserção: 5
+
+
+Medições da Bomba adicionada:
+	Identificador da Bomba: 00206
+	ID da Classe: 2
+	Temperatura: 99.438228522658335
+	Vibração: 2.418904856912362
+	Pressão: 187.165194220647890
+	Taxa de Fluxo da Bomba: 10.821115710168151
+	RPM: 2669.275436617861500
+	Operação da Bomba em horas 7758.556085388067900
+	Manutenção Recente: 0
+
+	Número de Comparações para Inserção: 5
+
+
+Medições da Bomba adicionada:
+	Identificador da Bomba: 00651
+	ID da Classe: 5
+	Temperatura: 131.568681817349500
+	Vibração: 2.941547276533323
+	Pressão: 275.974269914567460
+	Taxa de Fluxo da Bomba: 16.829309095829988
+	RPM: 1937.651345968413400
+	Operação da Bomba em horas 4502.276720194122400
+	Manutenção Recente: 1
+
+	Número de Comparações para Inserção: 4
+
+
+Medições da Bomba adicionada:
+	Identificador da Bomba: 00354
+	ID da Classe: 3
+	Temperatura: 104.671164020669780
+	Vibração: 1.029344257309635
+	Pressão: 155.049645462463500
+	Taxa de Fluxo da Bomba: 19.244094331210484
+	RPM: 2620.443736181647200
+	Operação da Bomba em horas 7792.413615723639900
+	Manutenção Recente: 1
+
+	Número de Comparações para Inserção: 5
+
+
+Medições da Bomba adicionada:
+	Identificador da Bomba: 00054
+	ID da Classe: 1
+	Temperatura: 66.687118464006133
+	Vibração: 1.288140410864166
+	Pressão: 118.512037604017650
+	Taxa de Fluxo da Bomba: 14.507398571165291
+	RPM: 2054.762394892919000
+	Operação da Bomba em horas 6464.925207843349200
+	Manutenção Recente: 1
+
+	Número de Comparações para Inserção: 5
+
+
+Medições da Bomba adicionada:
+	Identificador da Bomba: 00206
+	ID da Classe: 2
+	Temperatura: 60.364198019772296
+	Vibração: 0.783261373258959
+	Pressão: 181.199518105149960
+	Taxa de Fluxo da Bomba: 8.189701799248748
+	RPM: 1935.321356907225700
+	Operação da Bomba em horas 4003.759812414940400
+	Manutenção Recente: 1
+
+	Número de Comparações para Inserção: 5
+
+
+Medições da Bomba adicionada:
+	Identificador da Bomba: 00204
+	ID da Classe: 2
+	Temperatura: 149.269374943783530
+	Vibração: 1.366408568268100
+	Pressão: 174.399174742621310
+	Taxa de Fluxo da Bomba: 10.564634539418412
+	RPM: 1456.508968103923500
+	Operação da Bomba em horas 2619.009846602483300
+	Manutenção Recente: 0
+
+	Número de Comparações para Inserção: 6
+
+
+Medições da Bomba adicionada:
+	Identificador da Bomba: 00502
+	ID da Classe: 4
+	Temperatura: 127.889921455296540
+	Vibração: 0.301589297110160
+	Pressão: 269.753729740679200
+	Taxa de Fluxo da Bomba: 13.765331751104345
+	RPM: 2730.807303763196600
+	Operação da Bomba em horas 7148.404184318805200
+	Manutenção Recente: 1
+
+	Número de Comparações para Inserção: 5
+
+
+Busca da Bomba com identificador 00354:
+	-------------------------------------------------
+	ID da Classe: 3
+	Temperatura: 104.671164020669780
+	Vibração: 1.029344257309635
+	Pressão: 155.049645462463500
+	Taxa de Fluxo da Bomba: 19.244094331210484
+	RPM: 2620.443736181647200
+	Operação da Bomba em horas 7792.413615723639900
+	Manutenção Recente: 1
+
+	Número de Comparações na Busca: 3
+
+
+Busca da Bomba com identificador 00197:
+	Nenhum registro de bomba encontrado
+
+	Número de Comparações na Busca: 6
+
+
+Busca da Bomba com identificador 00293:
+	Nenhum registro de bomba encontrado
+
+	Número de Comparações na Busca: 5
+
+
+Busca da Bomba com identificador 00391:
+	Nenhum registro de bomba encontrado
+
+	Número de Comparações na Busca: 6
+
+
+Busca da Bomba com identificador 00582:
+	Nenhum registro de bomba encontrado
+
+	Número de Comparações na Busca: 5
+
+
+Busca da Bomba com identificador 00713:
+	Nenhum registro de bomba encontrado
+
+	Número de Comparações na Busca: 5
+
+
+MEAN - Bomba com Identificador 00503:
+	Temperatura: 134.666782033536550
+	Vibração: 3.372156048159935
+	Pressão: 126.041143699821990
+
+MAX - Bomba com Identificador 00059:
+	Temperatura: 68.344590323771854
+	Vibração: 4.576785650526148
+	Pressão: 177.784883216928900
+
+MIN - Bomba com Identificador 00206:
+	Temperatura: 60.364198019772296
+	Vibração: 0.783261373258959
+	Pressão: 181.199518105149960
+
+Remoção da Bomba com identificador 00357:
+	-------------------------------------------------
+	ID da Classe: 3
+	Temperatura: 82.706201059018923
+	Vibração: 4.715788003707150
+	Pressão: 161.246099545321810
+	Taxa de Fluxo da Bomba: 2.168156650363062
+	RPM: 2455.880004698156000
+	Operação da Bomba em horas 8810.672651459754000
+	Manutenção Recente: 1
+
+	Número de Comparações para Remoção: 5
+
+
+Remoção da Bomba com identificador 00173:
+	Nenhum registro de bomba encontrado
+
+	Número de Comparações para Remoção: 6
+
+
+Remoção da Bomba com identificador 00250:
+	Nenhum registro de bomba encontrado
+
+	Número de Comparações para Remoção: 5
+
+
+Remoção da Bomba com identificador 00485:
+	Nenhum registro de bomba encontrado
+
+	Número de Comparações para Remoção: 6
+
+
+Remoção da Bomba com identificador 00531:
+	Nenhum registro de bomba encontrado
+
+	Número de Comparações para Remoção: 5
+
+
+Remoção da Bomba com identificador 00710:
+	Nenhum registro de bomba encontrado
+
+	Número de Comparações para Remoção: 5
+
+
+
+Estatísticas de Comparação:
+-----------------------------------------------------------
+	Inserções: 76
+	Buscas: 30
+	Remoções: 32
+
