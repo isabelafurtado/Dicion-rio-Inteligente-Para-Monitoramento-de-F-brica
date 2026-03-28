@@ -1,0 +1,4 @@
+gcc .\lse_neutra.c .\hash.c .\avl.c .\bomba.c .\main.c -o bomba
+.\bomba.exe .\entradas\dataset_01_perc.in
+.\bomba.exe .\entradas\dataset_05_perc.in
+.\bomba.exe .\entradas\dataset_10_perc.in
